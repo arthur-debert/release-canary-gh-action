@@ -30,7 +30,7 @@ permissions:
 
 jobs:
   release:
-    uses: arthur-debert/release/.github/workflows/gh-action.yml@v3
+    uses: arthur-debert/release/.github/workflows/gh-action.yml@canary/47c63865ba7f
     with:
       version: ${{ inputs.version }}
     secrets: inherit
