@@ -23,4 +23,4 @@ permissions:
 
 jobs:
   ci:
-    uses: arthur-debert/release/.github/workflows/gh-action-ci.yml@canary/ee30e7508b2e
+    uses: arthur-debert/release/.github/workflows/gh-action-ci.yml@canary/3018b22a66c7
